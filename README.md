@@ -1,7 +1,7 @@
-# RBE549_CV_Projects
+# Phase 1 - Traditional Method
 
 # Phase 2 - Instructions to run the code
-Please make sure you are in the same directory as the code files in order to execute them in the command prompt. If not, use cd/../loc to navigate to the location of the python files.
+Please make sure you are in the same directory as the code files in order to execute them in the command prompt. If not, use cd/../loc to navigate to the location of the Python files.
 
 ## Creating the data
 ### The following command must be entered into the command prompt to create Training data:
