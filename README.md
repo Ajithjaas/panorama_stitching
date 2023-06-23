@@ -1,9 +1,14 @@
 # Phase 1 - Traditional Method
 A. Corner Detection
+
 B. Adaptive Non-Maximal Suppression (ANMS)
+
 C. Feature Descriptor
+
 D. Feature Matching
+
 E. RANSAC for Outlier Rejection
+
 F. Blending Images
 
 # Phase 2 - Deep Learning Approach
