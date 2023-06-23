@@ -1,20 +1,29 @@
 # Phase 1 - Traditional Method
-A. Corner Detection
+## Steps in Traditional Method:
+    - Corner Detection
+    - Adaptive Non-Maximal Suppression (ANMS)
+    - Feature Descriptor
+    - Feature Matching
+    - RANSAC for Outlier Rejection
+    - Blending Images
 
-B. Adaptive Non-Maximal Suppression (ANMS)
-
-C. Feature Descriptor
-
-D. Feature Matching
-
-E. RANSAC for Outlier Rejection
-
-F. Blending Images
+Navigate the below folder:
+```json
+cd ../Phase1/Code/
+```
+Run the follwing code:
+```json
+python Wrapper.py
+```
 
 # Phase 2 - Deep Learning Approach
 ## Instructions to run the code
 Please make sure you are in the same directory as the code files in order to execute them in the command prompt. If not, use cd/../loc to navigate to the location of the Python files.
 
+Navigate the below folder:
+```json
+cd ../Phase2/Code/
+```
 ## Creating the data
 ### The following command must be entered into the command prompt to create Training data:
 ```json
