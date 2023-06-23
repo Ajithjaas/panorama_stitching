@@ -1,6 +1,13 @@
 # Phase 1 - Traditional Method
+A. Corner Detection
+B. Adaptive Non-Maximal Suppression (ANMS)
+C. Feature Descriptor
+D. Feature Matching
+E. RANSAC for Outlier Rejection
+F. Blending Images
 
-# Phase 2 - Instructions to run the code
+# Phase 2 - Deep Learning Approach
+## Instructions to run the code
 Please make sure you are in the same directory as the code files in order to execute them in the command prompt. If not, use cd/../loc to navigate to the location of the Python files.
 
 ## Creating the data
